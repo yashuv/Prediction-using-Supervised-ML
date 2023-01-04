@@ -1,5 +1,7 @@
 # Prediction using Supervised ML
 
+This is the first project I completed in my internship at __TheSparksFoundation__ for the function "Data Science and Business Analytics."
+
 ## Task:
 * Predict the percentage of an student based on the no. of study hours.
 * This is a simple linear regression task as it involves just 2 variables.
